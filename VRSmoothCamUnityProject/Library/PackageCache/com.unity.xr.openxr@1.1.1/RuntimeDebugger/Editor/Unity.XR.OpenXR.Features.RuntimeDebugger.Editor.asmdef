@@ -1,0 +1,19 @@
+{
+    "name": "Unity.XR.OpenXR.Features.RuntimeDebugger.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:784a7033de40af04db4f8c4de440f481",
+        "GUID:4847341ff46394e83bb78fbd0652937e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
