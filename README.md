@@ -26,7 +26,8 @@ In the end the goal is to achieve clearer, more cinematic footage for flat scree
 ## Things to Note
 - This renders an extra camera simultaneously and it will affect performance.
 - Consider using Unity Recorder to achieve exact framerates.
-- This project is not yet intended for runtime use.
+- Not intended for Mixed Reality Capture.
+- Not yet intended for runtime use.
 
 ## Credits
 The idea for smoothing comes from Valve's <a href="https://support.steampowered.com/kb_article.php?ref=1367-QDNM-8600">full in-camera smoothing</a> they used for the <a href="https://www.youtube.com/watch?v=O2W0N3uKXmo">trailer of Half-Life: Alyx</a>.
