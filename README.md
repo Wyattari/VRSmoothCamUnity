@@ -4,7 +4,7 @@
   Simple camera smoothing prefab to help facilitate the in-editor capture of VR content in Unity.
 </p>
 
-## Philosphy
+## Uhhh, Why?
 
 The movement of a VR headset on a persons head is often quick and jittery. (gif of unsmoothed footage) This works as intended in VR because it is close to the exact movements of the users head, but when footage is captured and viewed on a flat screen it can read as janky or cheap. This is due to a couple factors: 1. Smoother footage is easier to watch and comprehend detail. 2. We're building on a long history of cinema where expensive film cameras were very heavy and even handheld movement had a certain level of smoothness. Stabilization techniques are common among filmmakers looking to create cinematic shots that emulate the look of a heavy camera.
 
