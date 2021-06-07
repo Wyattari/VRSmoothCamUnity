@@ -27,7 +27,6 @@ In the end the goal is to achieve clearer, more cinematic footage for flat scree
 
 ## Things to Note
 - This renders an extra camera simultaneously and it will affect performance.
-- Consider using Unity Recorder to achieve exact framerates.
 - Not intended for Mixed Reality Capture.
 - Not yet intended for runtime use.
 
