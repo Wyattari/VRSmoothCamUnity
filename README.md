@@ -8,32 +8,39 @@
 
 The movement of a VR headset on a persons head is often quick and jittery. 
 
+<p align="center">
 ![](01_NoSmoothing.gif)
 
 (no smoothing)
-
+</p>
+  
 This works as intended in VR because it is close to the exact movements of the users head, but when footage is captured and viewed on a flat screen it can read as janky or cheap. This is due to a couple factors: 1. Smoother footage is easier to watch and comprehend detail. 2. We're building on a long history of cinema where expensive film cameras were very heavy and even handheld movement had a certain level of smoothness. Stabilization techniques are common among filmmakers looking to create cinematic shots that emulate the look of a heavy camera.
 
+<p align="center">
 ![](02_SmoothDamp.gif)
 
 (SmoothDamp position & rotation)
+</p>
 
 Some might think that stabilizing your VR camera would not be a true representation of the gameplay, but I would argue that a straight capture to flat screen is not representative either, and the smoothing helps to bridge the gap between what you see on flat screen vs what it feels like in the VR experience.
 
 Using a separate capture camera also allows you to adjust camera settings without affecting the player's perspective. For example, since game capture is only recording one eye, you can increase the smoothed camera's field of view to better match what the player sees with both eyes. Also useful if your hands that you can see in-game are often cropped out of the 16:9 captured footage.
 
+<p align="center">
 ![](03_SmoothDamp_WiderFOV_LockedZ.gif)
 
 (SmoothDamp position & rotation, wider FOV, locked camera roll)
-
+</p>
+  
 In the end the goal is to have a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
 
 ## How it Works
 - The package includes a camera with a smoothing script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the separate smoothed camera only.
 - Optionally, you may enable a window in your VR perspective that allows you to monitor the view of the smoothed camera.
 
+<p align="center">
 ![](04_Monitor.gif)
-
+</p>
 
 ## Instructions
 - Import the UnityPackage (created in 2019.4) 
