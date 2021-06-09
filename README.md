@@ -26,7 +26,7 @@ Using a separate capture camera also allows you to adjust camera settings withou
 
 (SmoothDamp position & rotation, wider FOV, locked camera roll)
 
-In the end the goal is to have a simple tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
+In the end the goal is to have a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
 
 ## How it Works
 - The package includes a camera with the VRSmoothCam script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the VRSmoothCam only.
@@ -43,8 +43,7 @@ In the end the goal is to have a simple tool that allows you to achieve clearer,
 - This renders an extra camera simultaneously and it will affect performance.
 - Not intended for Mixed Reality Capture.
 - Not yet intended for runtime use.
+- Currently only set up with SmoothDamp, but I'd like to experiment with additional smoothing methods.
 
 ## Credits
 The idea for smoothing comes from Valve's <a href="https://support.steampowered.com/kb_article.php?ref=1367-QDNM-8600">full in-camera smoothing</a> they used for the <a href="https://www.youtube.com/watch?v=O2W0N3uKXmo">trailer of Half-Life: Alyx</a>.
-
-The original smoothing code comes from Digital Salmon's implementation of Ryan Juckett's Simple Harmonic Motion.
