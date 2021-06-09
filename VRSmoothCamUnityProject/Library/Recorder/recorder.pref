@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0888db1d9f84d6da3b0d5de41f42c2d, type: 3}
   m_Name: Global Settings
   m_EditorClassIdentifier: 
-  m_RecordMode: 0
+  m_RecordMode: 3
   m_FrameRatePlayback: 0
   m_FrameRateType: 4
   m_CustomFrameRateValue: 30
   m_StartFrame: 0
   m_EndFrame: 0
   m_StartTime: 0
-  m_EndTime: 0
+  m_EndTime: 5
   m_CapFrameRate: 1
   m_RecorderSettings:
   - {fileID: 2}
@@ -36,7 +36,7 @@ MonoBehaviour:
   m_Name: GIF Animation
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 6
+  take: 5
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -57,8 +57,8 @@ MonoBehaviour:
           m_CustomAspectX: 1
           m_CustomAspectY: 1
           m_ImageAspect: 1
-      source: 2
-      cameraTag: 
+      source: 4
+      cameraTag: MainCamera
       flipFinalOutput: 1
       captureUI: 0
     renderTextureInputSettings:
@@ -83,6 +83,6 @@ MonoBehaviour:
   gifEncoderSettings:
     width: 0
     height: 0
-    numColors: 256
+    numColors: 124
     keyframeInterval: 30
-    maxTasks: 8
+    maxTasks: 16
