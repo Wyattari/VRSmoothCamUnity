@@ -6,15 +6,14 @@
 
 ## Uhhh, Why?
 
-The movement of a VR headset on a persons head is often quick and jittery. 
+The movement of a VR headset on a persons head is often jittery. 
 
 
 ![](01_NoSmoothing.gif)
 
-(no smoothing)
+<sub><sup>(no smoothing)</sup></sub>
 
-  
-This works as intended in VR because it is close to the exact movements of the users head, but when footage is captured and viewed on a flat screen it can read as janky or cheap. This is due to a couple factors: 1. Smoother footage is easier to watch and comprehend detail. 2. We're building on a long history of cinema where expensive film cameras were very heavy and even handheld movement had a certain level of smoothness. Stabilization techniques are common among filmmakers looking to create cinematic shots that emulate the look of a heavy camera.
+If you smooth it out, it looks more cinematic.
 
 
 ![](02_SmoothDamp.gif)
@@ -22,9 +21,9 @@ This works as intended in VR because it is close to the exact movements of the u
 (SmoothDamp position & rotation)
 
 
-Some might think that stabilizing your VR camera would not be a true representation of the gameplay, but I would argue that a straight capture to flat screen is not representative either, and the smoothing helps to bridge the gap between what you see on flat screen vs what it feels like in the VR experience.
+Smoothing helps to bridge the gap between what you see on flat screen vs what it feels like in the VR experience.
 
-Using a separate capture camera also allows you to adjust camera settings without affecting the player's perspective. For example, since game capture is only recording one eye, you can increase the smoothed camera's field of view to better match what the player sees with both eyes. Also useful if your hands that you can see in-game are often cropped out of the 16:9 captured footage.
+Using a separate capture camera also allows you to adjust camera settings without affecting the player's perspective. This is useful if your hands that you can see in-game are often cropped out of the 16:9 captured footage.
 
 ![](03_SmoothDamp_WiderFOV_LockedZ.gif)
 
@@ -62,4 +61,4 @@ The idea for smoothing comes from Valve's <a href="https://support.steampowered.
 If this has been helpful,
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W64VWMO)
 
-May your framerates be high and your camera's smooth!
+May your framerates be high and your cameras smooth!
