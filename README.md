@@ -9,11 +9,13 @@
 The movement of a VR headset on a persons head is often quick and jittery. 
 
 ![](01_NoSmoothing.gif)
+
 (no smoothing)
 
 This works as intended in VR because it is close to the exact movements of the users head, but when footage is captured and viewed on a flat screen it can read as janky or cheap. This is due to a couple factors: 1. Smoother footage is easier to watch and comprehend detail. 2. We're building on a long history of cinema where expensive film cameras were very heavy and even handheld movement had a certain level of smoothness. Stabilization techniques are common among filmmakers looking to create cinematic shots that emulate the look of a heavy camera.
 
 ![](02_SmoothDamp.gif)
+
 (SmoothDamp position & rotation)
 
 Some might think that stabilizing your VR camera would not be a true representation of the gameplay, but I would argue that a straight capture to flat screen is not representative either, and the smoothing helps to bridge the gap between what you see on flat screen vs what it feels like in the VR experience.
@@ -21,6 +23,7 @@ Some might think that stabilizing your VR camera would not be a true representat
 Using a separate capture camera also allows you to adjust camera settings without affecting the player's perspective. For example, since game capture is only recording one eye, you can increase the smoothed camera's field of view to better match what the player sees with both eyes. Also useful if your hands that you can see in-game are often cropped out of the 16:9 captured footage.
 
 ![](03_SmoothDamp_WiderFOV_LockedZ.gif)
+
 (SmoothDamp position & rotation, wider FOV, locked camera roll)
 
 In the end the goal is to achieve clearer, more cinematic footage for flat screen sharing of VR content.
