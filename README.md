@@ -34,7 +34,7 @@ Using a separate capture camera also allows you to adjust camera settings withou
 In the end the goal is to have a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
 
 ## How it Works
-- The package includes a camera with a smoothing script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the separate smoothed camera only.
+- The package includes a prefab with a camera and smoothing script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the separate smoothed camera only.
 - Optionally, you may enable a window in your VR perspective that allows you to monitor the view of the smoothed camera.
 
 
