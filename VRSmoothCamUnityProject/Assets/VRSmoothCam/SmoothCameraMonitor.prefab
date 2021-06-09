@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 6042694053462486832}
   - component: {fileID: 6042694053462486829}
   - component: {fileID: 6042694053462486834}
-  m_Layer: 31
+  m_Layer: 0
   m_Name: MonitorQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}

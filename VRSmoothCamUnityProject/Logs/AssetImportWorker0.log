@@ -302,3 +302,232 @@ System memory in use after: 158.8 MB.
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2361.
 Total: 1.809300 ms (FindLiveObjects: 0.176900 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.541000 ms  DeleteObjects: 0.045300 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1852 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.7 MB.
+System memory in use after: 158.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 1.812900 ms (FindLiveObjects: 0.197700 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.521800 ms  DeleteObjects: 0.048000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 891.003943 seconds.
+  path: Assets/VRSmoothCam/SmoothCamSettings.asset
+  artifactKey: Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCamSettings.asset using Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f71a9426c16c477dfea6aaa1effcb10') in 0.020031 seconds
+  Import took 0.022799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.706324 seconds.
+  path: Assets/VRSmoothCam/SmoothCamSettings.asset
+  artifactKey: Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCamSettings.asset using Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f71a9426c16c477dfea6aaa1effcb10') in 0.002810 seconds
+  Import took 0.005699 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003927 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1852 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.7 MB.
+System memory in use after: 158.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 1.806100 ms (FindLiveObjects: 0.193700 ms CreateObjectMapping: 0.043600 ms MarkObjects: 1.521500 ms  DeleteObjects: 0.045900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1852 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.7 MB.
+System memory in use after: 158.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 1.973000 ms (FindLiveObjects: 0.209300 ms CreateObjectMapping: 0.044100 ms MarkObjects: 1.661700 ms  DeleteObjects: 0.056900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1174.351530 seconds.
+  path: Assets/VRSmoothCam/SmoothCamSettings.asset
+  artifactKey: Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCamSettings.asset using Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbdfa8e042c57d47f914c6e1b2518c4') in 0.016735 seconds
+  Import took 0.019593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.914301 seconds.
+  path: Assets/VRSmoothCam/SmoothCameraFollow.prefab
+  artifactKey: Guid(23280e86f93159c4dadb46e5ebaabfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCameraFollow.prefab using Guid(23280e86f93159c4dadb46e5ebaabfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a1b66b7536de119411efa79f7bdf7a') in 0.022135 seconds
+  Import took 0.025414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.047991 seconds.
+  path: Assets/VRSmoothCam/Scripts/SmoothCamMethods.cs
+  artifactKey: Guid(8bcff9597d7aa6447b097ffc50fa9c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/Scripts/SmoothCamMethods.cs using Guid(8bcff9597d7aa6447b097ffc50fa9c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6b69c758d7a622c132fdfa821b03dc') in 0.014277 seconds
+  Import took 0.017134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.975117 seconds.
+  path: Assets/VRSmoothCam/Scripts/SmoothCamFollow.cs
+  artifactKey: Guid(88c5b585611a771419a1d01fa73775b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/Scripts/SmoothCamFollow.cs using Guid(88c5b585611a771419a1d01fa73775b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9020bf85170516cae8bb4cbb6d64266a') in 0.005526 seconds
+  Import took 0.008255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.969640 seconds.
+  path: Assets/VRSmoothCam/Scripts/SmoothCamSettings.cs
+  artifactKey: Guid(cf4d49ad0d299e742b9bda5780d74eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/Scripts/SmoothCamSettings.cs using Guid(cf4d49ad0d299e742b9bda5780d74eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b1baf5ebb9c79f94731c00abd5f41a') in 0.001705 seconds
+  Import took 0.004371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.886411 seconds.
+  path: Assets/VRSmoothCam
+  artifactKey: Guid(4a355a2965bc45c498b8be77a0fff93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam using Guid(4a355a2965bc45c498b8be77a0fff93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7b5e5b22e30db22c6ced90138a3283') in 0.005915 seconds
+  Import took 0.008771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.134852 seconds.
+  path: Assets/VRSmoothCam/SmoothCameraMonitor.prefab
+  artifactKey: Guid(fb80723aeed0f734cb3683d471034ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCameraMonitor.prefab using Guid(fb80723aeed0f734cb3683d471034ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c6f4546f5578d3d5715c01a7b235e4') in 0.043165 seconds
+  Import took 0.045880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.572381 seconds.
+  path: Assets/Recording/RecordAnimation.cs
+  artifactKey: Guid(d04924db7f7811a44809d69186b9dbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recording/RecordAnimation.cs using Guid(d04924db7f7811a44809d69186b9dbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3eac169dedeb7970414ebbcdf85ec4') in 0.005974 seconds
+  Import took 0.008730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.650833 seconds.
+  path: Assets/VRSmoothCam/MonitorMaterial.mat
+  artifactKey: Guid(1853a3673067160438ac34a9562b6d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/MonitorMaterial.mat using Guid(1853a3673067160438ac34a9562b6d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127675f849e5ec1fe6c3fff51807f560') in 0.025272 seconds
+  Import took 0.028261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006335 seconds.
+  path: Assets/VRSmoothCam/SmoothCamUnlitAdjustableTransparency.shader
+  artifactKey: Guid(7a523c854a6e6584ca348a4271c7c479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCamUnlitAdjustableTransparency.shader using Guid(7a523c854a6e6584ca348a4271c7c479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37b21cae0b62e682ae06336dd11c220') in 0.006103 seconds
+  Import took 0.008789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001747 seconds.
+  path: Assets/VRSmoothCam/Scripts
+  artifactKey: Guid(27e72cf6640b0664d96d50d784dc1f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/Scripts using Guid(27e72cf6640b0664d96d50d784dc1f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a73980671e777a429a7dedfa9046371') in 0.004696 seconds
+  Import took 0.007553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005057 seconds.
+  path: Assets/VRSmoothCam/MonitorRenderTexture.renderTexture
+  artifactKey: Guid(934f8c3e79eb29b439f4ab44038c61c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/MonitorRenderTexture.renderTexture using Guid(934f8c3e79eb29b439f4ab44038c61c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d34b252f1850c8ce8aabe5add7eb71c') in 0.012997 seconds
+  Import took 0.015791 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.774 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1852 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2419.
+Total: 2.103600 ms (FindLiveObjects: 0.185300 ms CreateObjectMapping: 0.043800 ms MarkObjects: 1.809800 ms  DeleteObjects: 0.063600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004932 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1852 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2423.
+Total: 2.183500 ms (FindLiveObjects: 0.238600 ms CreateObjectMapping: 0.045200 ms MarkObjects: 1.823000 ms  DeleteObjects: 0.075800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4117.701063 seconds.
+  path: Assets/VRSmoothCam/SmoothCamSettings.asset
+  artifactKey: Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCamSettings.asset using Guid(77d20eed88788c54b80ee7b1e4742964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c01e7ff700fb47faf30601c702d51d') in 0.027451 seconds
+  Import took 0.030912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.911881 seconds.
+  path: Assets/VRSmoothCam/SmoothCameraMonitor.prefab
+  artifactKey: Guid(fb80723aeed0f734cb3683d471034ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRSmoothCam/SmoothCameraMonitor.prefab using Guid(fb80723aeed0f734cb3683d471034ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3907d96929e44700f4a3c9289f4db9') in 0.055556 seconds
+  Import took 0.058430 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
