@@ -46,6 +46,15 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.recorder": {
+      "version": "2.5.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.subsystemregistration": {
       "version": "1.0.6",
       "depth": 1,
@@ -95,7 +104,7 @@
       }
     },
     "com.unity.xr.interaction.toolkit": {
-      "version": "1.0.0-pre.3",
+      "version": "1.0.0-pre.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
