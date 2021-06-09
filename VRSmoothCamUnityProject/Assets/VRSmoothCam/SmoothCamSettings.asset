@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf4d49ad0d299e742b9bda5780d74eb0, type: 3}
+  m_Name: SmoothCamSettings
+  m_EditorClassIdentifier: 
+  smoothingMethod: 0
+  positionDampening: 0.05
+  rotationDampening: 0.05
+  lockCameraRoll: 0
+  enableMonitor: 0
+  automaticRotateToView: 0
+  monitorPosition: {x: 0, y: -0.12, z: 0.96}
+  monitorTransparency: 1
+  monitorPrefab: {fileID: 6042694053821450194, guid: fb80723aeed0f734cb3683d471034ebd, type: 3}
+  monitorRenderTexture: {fileID: 8400000, guid: 934f8c3e79eb29b439f4ab44038c61c4, type: 2}

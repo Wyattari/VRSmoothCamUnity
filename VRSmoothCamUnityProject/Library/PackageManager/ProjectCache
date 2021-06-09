@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637564614060190749
-    m_Hash: 3639852987
+      ticks: 637583944548004540
+    m_Hash: 27287254
   m_LockFileStatus:
     m_FilePath: C:/Users/Lord/Documents/Real Documents/GitHubProjects/VRSmoothCamUnity/VRSmoothCamUnityProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637564614060270824
-    m_Hash: 3002695974
+      ticks: 637583944548084616
+    m_Hash: 3006333278
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -163,6 +163,7 @@ m_PackageAssets:
         - 3.0.4
         - 3.0.5
         - 3.0.6
+        - 3.0.7
         compatible:
         - 1.0.2
         - 1.0.6
@@ -188,6 +189,7 @@ m_PackageAssets:
         - 3.0.4
         - 3.0.5
         - 3.0.6
+        - 3.0.7
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -257,6 +259,7 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         - 2.0.8
+        - 2.0.9
         compatible:
         - 1.0.2
         - 1.0.3
@@ -271,7 +274,8 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         - 2.0.8
-        verified: 2.0.8
+        - 2.0.9
+        verified: 2.0.9
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -374,6 +378,104 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
+    - packageId: com.unity.recorder@2.5.5
+      testable: 0
+      isDirectDependency: 1
+      version: 2.5.5
+      source: 1
+      resolvedPath: C:\Users\Lord\Documents\Real Documents\GitHubProjects\VRSmoothCamUnity\VRSmoothCamUnityProject\Library\PackageCache\com.unity.recorder@2.5.5
+      assetPath: Packages/com.unity.recorder
+      name: com.unity.recorder
+      displayName: Unity Recorder
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'The Unity Recorder allows you to capture and save data from the
+        Unity Editor during Play Mode: animations, videos, images, audio, and more.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        compatible:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        verified: 2.5.5
+      dependencies:
+      - name: com.unity.timeline
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.timeline
+        version: 1.4.7
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - recorder
+      - recording
+      - capture
+      - video
+      - animation
+      - clip
+      - images
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637516111550000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.recorder.git
+        revision: f3dc97fa977473ea7eb4f8445879c2eb9ae8e553
+        path: 
     - packageId: com.unity.test-framework@1.1.24
       testable: 0
       isDirectDependency: 1
@@ -422,9 +524,11 @@ m_PackageAssets:
         - 1.1.20
         - 1.1.22
         - 1.1.24
+        - 1.1.26
         compatible:
         - 1.1.24
-        verified: 1.1.24
+        - 1.1.26
+        verified: 1.1.26
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -831,12 +935,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.xr.interaction.toolkit@1.0.0-pre.3
+    - packageId: com.unity.xr.interaction.toolkit@1.0.0-pre.4
       testable: 0
       isDirectDependency: 1
-      version: 1.0.0-pre.3
+      version: 1.0.0-pre.4
       source: 1
-      resolvedPath: C:\Users\Lord\Documents\Real Documents\GitHubProjects\VRSmoothCamUnity\VRSmoothCamUnityProject\Library\PackageCache\com.unity.xr.interaction.toolkit@1.0.0-pre.3
+      resolvedPath: C:\Users\Lord\Documents\Real Documents\GitHubProjects\VRSmoothCamUnity\VRSmoothCamUnityProject\Library\PackageCache\com.unity.xr.interaction.toolkit@1.0.0-pre.4
       assetPath: Packages/com.unity.xr.interaction.toolkit
       name: com.unity.xr.interaction.toolkit
       displayName: XR Interaction Toolkit
@@ -867,6 +971,7 @@ m_PackageAssets:
         - 1.0.0-pre.1
         - 1.0.0-pre.2
         - 1.0.0-pre.3
+        - 1.0.0-pre.4
         compatible:
         - 0.0.6-preview
         - 0.9.0-preview
@@ -878,6 +983,7 @@ m_PackageAssets:
         - 1.0.0-pre.1
         - 1.0.0-pre.2
         - 1.0.0-pre.3
+        - 1.0.0-pre.4
         verified: 
       dependencies:
       - name: com.unity.inputsystem
@@ -924,13 +1030,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637517122820000000
+      datePublishedTicks: 637569811150000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit.git
-        revision: fcfe2848311605a0ac56242c26c9c684eccebdb3
+        revision: ce29e6f82e35cdca8ca8bbc4a5a3393c1aa2b919
         path: 
     - packageId: com.unity.xr.management@4.0.5
       testable: 0
@@ -1091,12 +1197,16 @@ m_PackageAssets:
         - 1.0.2
         - 1.0.3
         - 1.1.1
+        - 1.2.0
+        - 1.2.2
         compatible:
         - 0.1.1-preview.1
         - 0.1.2-preview.2
         - 1.0.2
         - 1.0.3
         - 1.1.1
+        - 1.2.0
+        - 1.2.2
         verified: 1.1.1
       dependencies:
       - name: com.unity.xr.management
@@ -3028,6 +3138,7 @@ m_PackageAssets:
         - 1.0.0
         - 1.0.1
         - 1.0.2
+        - 1.1.0-pre.5
         - 1.1.0-preview.1
         - 1.1.0-preview.2
         - 1.1.0-preview.3
@@ -3056,6 +3167,7 @@ m_PackageAssets:
         - 1.0.0
         - 1.0.1
         - 1.0.2
+        - 1.1.0-pre.5
         - 1.1.0-preview.1
         - 1.1.0-preview.2
         - 1.1.0-preview.3
