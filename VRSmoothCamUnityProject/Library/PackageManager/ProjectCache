@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637583944548004540
-    m_Hash: 27287254
+      ticks: 637588733782825462
+    m_Hash: 1138728707
   m_LockFileStatus:
     m_FilePath: C:/Users/Lord/Documents/Real Documents/GitHubProjects/VRSmoothCamUnity/VRSmoothCamUnityProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637583944548084616
-    m_Hash: 3006333278
+      ticks: 637588733782835468
+    m_Hash: 1709427223
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -59,6 +59,7 @@ m_PackageAssets:
         - 1.3.7
         - 1.3.8
         - 1.3.9
+        - 1.4.9
         - 1.5.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
@@ -72,6 +73,7 @@ m_PackageAssets:
         - 2.1.0-preview.6
         compatible:
         - 1.3.9
+        - 1.4.9
         - 1.5.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
