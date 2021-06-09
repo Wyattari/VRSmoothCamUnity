@@ -8,17 +8,16 @@
 
 The movement of a VR headset on a persons head is often jittery. 
 
-
 ![](01_NoSmoothing.gif)
 
 <sub><sup>(no smoothing)</sup></sub>
 
-If you smooth it out, it looks more cinematic.
 
+If you smooth it out, it looks more cinematic.
 
 ![](02_SmoothDamp.gif)
 
-(SmoothDamp position & rotation)
+<sub><sup>(SmoothDamp position & rotation)</sup></sub>
 
 
 Smoothing helps to bridge the gap between what you see on flat screen vs what it feels like in the VR experience.
@@ -27,7 +26,7 @@ Using a separate capture camera also allows you to adjust camera settings withou
 
 ![](03_SmoothDamp_WiderFOV_LockedZ.gif)
 
-(SmoothDamp position & rotation, wider FOV, locked camera roll)
+<sub><sup>(SmoothDamp position & rotation, wider FOV, locked camera roll)</sup></sub>
 
   
 In the end the goal is to have a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
