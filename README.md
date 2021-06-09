@@ -35,7 +35,7 @@ In the end the goal is to have a simple in-editor tool that allows you to achiev
 
 ## How it Works
 - The package includes a prefab with a camera and smoothing script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the separate smoothed camera only.
-- Optionally, you may enable a window in your VR perspective that allows you to monitor the view of the smoothed camera.
+- Optionally, you may enable a window in your VR perspective that allows you to monitor the view of the smoothed camera. I find this helpful if you're trying to frame things in really specific ways.
 
 
 ![](04_Monitor.gif)
@@ -46,6 +46,7 @@ In the end the goal is to have a simple in-editor tool that allows you to achiev
 - Drop the SmoothCameraFollow prefab into your scene.
 - Attach your VR camera to the follow target field in the SmoothCamFollow script.
 - Make sure the "Depth" or "Priority" field of the VRSmoothCam camera is set so it has higher priority than your VR camera.
+- Use the SmoothCamSettings ScriptableObject to adjust settings.
 - If you want to use the monitor you'll need to create or pick a layer that you can remove from the culling mask on the smoothed camera. Then open the SmoothCameraMonitor prefab and update the MonitorQuad's layer to the culled one.
 
 ## Things to Note
@@ -53,6 +54,9 @@ In the end the goal is to have a simple in-editor tool that allows you to achiev
 - Not intended for Mixed Reality Capture.
 - Not yet intended for runtime use.
 - Currently only set up with SmoothDamp, but I'd like to experiment with additional smoothing methods.
+- The 
 
 ## Credits
 The idea for smoothing comes from Valve's <a href="https://support.steampowered.com/kb_article.php?ref=1367-QDNM-8600">full in-camera smoothing</a> they used for the <a href="https://www.youtube.com/watch?v=O2W0N3uKXmo">trailer of Half-Life: Alyx</a>.
+
+If this helps you out feel free to [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W64VWMO)
