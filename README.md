@@ -52,7 +52,7 @@ In the end the goal is to have a simple in-editor tool that allows you to achiev
 - Not intended for Mixed Reality Capture.
 - Not yet intended for runtime use.
 - Currently only set up with SmoothDamp, but I'd like to experiment with additional smoothing methods.
-- The 
+- The "Lock Camera Roll" option bugs out when you look straight up or down.
 
 ## Credits
 The idea for smoothing comes from Valve's <a href="https://support.steampowered.com/kb_article.php?ref=1367-QDNM-8600">full in-camera smoothing</a> they used for the <a href="https://www.youtube.com/watch?v=O2W0N3uKXmo">trailer of Half-Life: Alyx</a>.
