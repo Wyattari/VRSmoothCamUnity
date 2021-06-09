@@ -9,7 +9,7 @@
 The movement of a VR headset on a persons head is often quick and jittery. 
 
 <p align="center">
-![](01_NoSmoothing.gif)
+<img src="01_NoSmoothing.gif"/>
 
 (no smoothing)
 </p>
