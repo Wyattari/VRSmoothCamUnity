@@ -26,7 +26,7 @@ Using a separate capture camera also allows you to adjust camera settings withou
 
 (SmoothDamp position & rotation, wider FOV, locked camera roll)
 
-In the end the goal is to achieve clearer, more cinematic footage for flat screen sharing of VR content.
+In the end the goal is to have a simple tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
 
 ## How it Works
 - The package includes a camera with the VRSmoothCam script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the VRSmoothCam only.
