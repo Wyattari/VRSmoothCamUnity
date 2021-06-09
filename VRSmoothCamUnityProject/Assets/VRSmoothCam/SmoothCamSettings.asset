@@ -15,10 +15,10 @@ MonoBehaviour:
   smoothingMethod: 0
   positionDampening: 0.05
   rotationDampening: 0.05
-  lockCameraRoll: 0
-  enableMonitor: 0
-  automaticRotateToView: 0
-  monitorPosition: {x: 0, y: -0.12, z: 0.96}
-  monitorTransparency: 1
+  lockCameraRoll: 1
+  enableMonitor: 1
+  automaticRotateToView: 1
+  monitorPosition: {x: 0, y: -0.39, z: 1.17}
+  monitorTransparency: 0.865
   monitorPrefab: {fileID: 6042694053821450194, guid: fb80723aeed0f734cb3683d471034ebd, type: 3}
   monitorRenderTexture: {fileID: 8400000, guid: 934f8c3e79eb29b439f4ab44038c61c4, type: 2}
