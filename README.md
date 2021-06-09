@@ -29,15 +29,18 @@ Using a separate capture camera also allows you to adjust camera settings withou
 In the end the goal is to have a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
 
 ## How it Works
-- The package includes a camera with the VRSmoothCam script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the VRSmoothCam only.
-- Optionally, you may enable a window in your VR perspective that allows you to monitor the view of the VRSmoothCam.
-- As opposed to a continuous lerp this uses a dampened spring method for even smoother smoothness.
+- The package includes a camera with a smoothing script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to the separate smoothed camera only.
+- Optionally, you may enable a window in your VR perspective that allows you to monitor the view of the smoothed camera.
+
+![](04_Monitor.gif)
+
 
 ## Instructions
 - Import the UnityPackage (created in 2019.4) 
-- Drop the VRSmoothCam prefab into your scene.
-- Attach your VR camera to the camera target in the VRSmoothCam script.
-- Make sure the "Depth" field of the VRSmoothCam camera is lower than your VR perspective cameras.
+- Drop the SmoothCameraFollow prefab into your scene.
+- Attach your VR camera to the follow target field in the SmoothCamFollow script.
+- Make sure the "Depth" or "Priority" field of the VRSmoothCam camera is set so it has higher priority than your VR camera.
+- If you want to use the monitor you'll need to create or pick a layer that you can remove from the culling mask on the smoothed camera. Then open the SmoothCameraMonitor prefab and update the MonitorQuad's layer to the culled one.
 
 ## Things to Note
 - This renders an extra camera simultaneously and it will affect performance.
