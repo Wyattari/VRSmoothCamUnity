@@ -36,7 +36,7 @@ The goal is to help bridge the gap between what you see on flat screen vs what y
 
 
 ## Instructions
-- Import the UnityPackage (created in 2019.4) 
+- Download the <a href="https://github.com/Wyattari/VRSmoothCamUnity/releases">latest release</a> and import the UnityPackage (created in 2019.4) 
 - Drop the SmoothCameraFollow prefab into your scene.
 - Attach your VR camera to the follow target field in the SmoothCamFollow script.
 - Make sure the "Depth" or "Priority" field of the VRSmoothCam camera is set so it has higher priority than your VR camera.
