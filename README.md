@@ -1,13 +1,11 @@
 <h1 align="center">VR Smooth Camera Plugin for Unity</h3>
 
-
-![](01_SideBySide.gif)
-
-<sup>(extreme example)</sup>
-
 <p align="center">
   Simple camera smoothing tool to help facilitate the in-editor capture of VR content in Unity.
 </p>
+
+![](01_SideBySide.gif)
+
 
 Capturing movement in a VR headset often results in jittery footage because of the natural movement of a head—which is fine for the person wearing the headset, but not great for the person viewing it on a flat screen.
 
