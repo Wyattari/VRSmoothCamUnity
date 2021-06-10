@@ -30,11 +30,6 @@ namespace VRSmoothCam
             return transform;
         }
 
-        public static Transform HarmonicMotion(Transform transform, Transform target, SmoothCamSettings settings)
-        {
-            return transform;
-        }
-
         public static Transform ContinuousLerp(Transform transform, Transform target, SmoothCamSettings settings)
         {
             return transform;

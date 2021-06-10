@@ -9,8 +9,10 @@ namespace VRSmoothCam
     {
         [Header("Smoothing Settings")]
         public SmoothCamMethods.SmoothingMethod smoothingMethod;
-        public float positionDampening = 0.5f;
-        public float rotationDampening = 0.09f;
+        [Range(0,.1f)]
+        public float positionDampening = 0.05f;
+        [Range(0, .1f)]
+        public float rotationDampening = 0.05f;
         [Tooltip("Prevents camera from rotating along the Z axis")]
         public bool lockCameraRoll;
 
@@ -19,7 +21,7 @@ namespace VRSmoothCam
         [Header("Monitor Settings")]
         public bool enableMonitor;
         public bool automaticRotateToView;
-        public Vector3 monitorPosition = new Vector3(0, 0, 0.5f);
+        public Vector3 monitorPosition = new Vector3(0f, -0.39f, 1.17f);
         [Range(0,1)]
         public float monitorTransparency;
         public GameObject monitorPrefab;
