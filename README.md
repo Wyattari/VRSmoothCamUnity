@@ -18,9 +18,7 @@ Smoothing that movement is a little easier on the eyes.
 <sup>(SmoothDamp position & rotation)</sup>
 
 
-The VR Smooth Camera is a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content.
-
-This also allows you to adjust camera settings without affecting the player's perspective, so in-game hands won’t be cropped out of 16:9 captured footage.
+The VR Smooth Camera is a simple in-editor tool that allows you to achieve clearer, more cinematic footage for flat screen sharing of VR content. This also allows you to adjust camera settings without affecting the player's perspective, so in-game hands won’t be cropped out of 16:9 captured footage.
 
 ![](03_SmoothDamp_WiderFOV_LockedZ.gif)
 
