@@ -1,6 +1,6 @@
 <h1 align="center">VR Smooth Camera Plugin for Unity</h3>
 
-<p align="center">
+<p align="left">
   Simple camera smoothing tool to help facilitate the in-editor capture of VR content in Unity.
 </p>
 
