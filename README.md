@@ -25,7 +25,7 @@ The VR Smooth Camera is a simple in-editor tool that allows you to achieve clear
 <sup>(SmoothDamp position & rotation, wider FOV, locked camera roll)</sup>
 
   
-The VR Smooth Camera helps bridge the gap between what you see on flat screen vs what you experience in VR.
+The goal is to help bridge the gap between what you see on flat screen vs what you experience in VR.
 
 ## How it Works
 - The package includes a prefab with a camera and smoothing script that follows your preferred target. This allows you to go through motions normally while smoothing is applied to only the separate smoothed camera.
