@@ -11,7 +11,7 @@ Capturing movement in a VR headset often results in jittery footage because of t
 <sup>(no smoothing)</sup>
 
 
-Smoothing that movement out gives you a more cinematic look that’s much easier on the eyes.
+Smoothing that movement is a little easier on the eyes.
 
 ![](02_SmoothDamp.gif)
 
