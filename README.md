@@ -4,8 +4,6 @@
   Simple camera smoothing tool to help facilitate the in-editor capture of VR content in Unity.
 </p>
 
-## Uhhh, Why?
-
 Capturing movement in a VR headset often results in jittery footage because of the natural movement of a head—which is fine for the person wearing the headset, but not great for the person viewing it on a flat screen.
 
 ![](01_NoSmoothing.gif)
